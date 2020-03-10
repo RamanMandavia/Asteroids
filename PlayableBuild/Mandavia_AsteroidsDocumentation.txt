@@ -1,0 +1,30 @@
+Raman Mandavia
+
+My apologies about how rough the code is. Most
+of it was, naturally, done in a day.
+
+W, A, and D move, while Space fires. The game 
+can be exited from the start menu by pressing
+the Esc Key. The game can also be restared once
+the player dies.
+
+Above and Beyond:
+ - All assets were created by me, except for the
+font.
+ - Imported font used for text, alongside Canvas
+used for most UI elements.
+ - Two pickups can be dropped by asteroids - one
+that slows down the speed of all asteroids on
+screen in that instance, and another that 
+drastically increases fire rate.
+ - Every 12 seconds or so, the difficulty 
+increases, indicated by a flashing warning
+prompt on screen. This happens up to 5 times,
+with each increas causes asteroids to spawn with
+greater frequency, have higher speeds, and have
+larger sizes.
+ - Start menu scene, that can be returned to
+after death. Alongside this, the player's
+survival time is tracked.
+ - Can both press and hold Space to fire, with
+the same effect.
